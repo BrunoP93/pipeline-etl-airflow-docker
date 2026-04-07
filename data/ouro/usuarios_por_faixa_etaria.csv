@@ -1,0 +1,13 @@
+faixa_etaria,subscription_status,total_usuarios
+0-10,active,0
+0-10,inactive,0
+11-20,active,351
+11-20,inactive,332
+21-30,active,2859
+21-30,inactive,2937
+31-40,active,2884
+31-40,inactive,2881
+41-50,active,2920
+41-50,inactive,2886
+50+,active,12118
+50+,inactive,12028
