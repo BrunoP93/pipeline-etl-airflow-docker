@@ -1096,3 +1096,101 @@ ModuleNotFoundError: No module named 'airflow.providers.standard'
 [2026-04-07T03:25:13.927+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:25:13.927+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-04-07T03:25:13.940+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:25:13.940+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
 [2026-04-07T03:25:13.962+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 0.670 seconds
+[2026-04-07T03:25:44.163+0000] {processor.py:161} INFO - Started process (PID=849) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:25:44.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:25:44.165+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:25:44.165+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:25:44.766+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:25:44.797+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:25:44.796+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:25:44.809+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:25:44.809+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:25:44.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 0.680 seconds
+[2026-04-07T03:26:15.102+0000] {processor.py:161} INFO - Started process (PID=855) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:26:15.106+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:26:15.108+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:26:15.107+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:26:15.881+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:26:15.913+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:26:15.913+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:26:15.929+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:26:15.928+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:26:15.953+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 0.863 seconds
+[2026-04-07T03:26:46.228+0000] {processor.py:161} INFO - Started process (PID=861) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:26:46.231+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:26:46.233+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:26:46.231+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:26:46.913+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:26:46.943+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:26:46.943+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:26:46.955+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:26:46.955+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:26:46.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 0.772 seconds
+[2026-04-07T03:27:17.273+0000] {processor.py:161} INFO - Started process (PID=867) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:27:17.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:27:17.277+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:27:17.276+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:27:20.606+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:27:20.675+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:27:20.675+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:27:20.695+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:27:20.695+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:27:20.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 3.549 seconds
+[2026-04-07T03:27:51.540+0000] {processor.py:161} INFO - Started process (PID=873) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:27:51.543+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:27:51.548+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:27:51.546+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:27:59.355+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:27:59.461+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:27:59.459+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:27:59.483+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:27:59.482+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:27:59.512+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 8.025 seconds
+[2026-04-07T03:28:29.958+0000] {processor.py:161} INFO - Started process (PID=879) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:28:29.964+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:28:29.969+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:28:29.967+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:28:31.581+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:28:31.621+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:28:31.621+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:28:31.648+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:28:31.647+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:28:31.681+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 1.774 seconds
+[2026-04-07T03:29:02.839+0000] {processor.py:161} INFO - Started process (PID=885) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:29:02.843+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:29:02.848+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:29:02.846+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:29:05.802+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:29:05.888+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:29:05.887+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:29:05.906+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:29:05.906+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:29:05.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 3.130 seconds
+[2026-04-07T03:29:36.596+0000] {processor.py:161} INFO - Started process (PID=891) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:29:36.600+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:29:36.603+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:29:36.601+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:29:40.191+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:29:40.299+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:29:40.299+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:29:40.322+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:29:40.321+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:29:40.355+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 3.790 seconds
+[2026-04-07T03:30:10.816+0000] {processor.py:161} INFO - Started process (PID=897) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:30:10.822+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:30:10.828+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:30:10.825+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:30:14.524+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:30:14.589+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:30:14.588+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:30:14.670+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:30:14.670+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:30:14.702+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 3.942 seconds
+[2026-04-07T03:30:45.048+0000] {processor.py:161} INFO - Started process (PID=903) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:30:45.051+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:30:45.054+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:30:45.052+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:30:46.746+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:30:47.460+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:30:47.460+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:30:47.484+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:30:47.484+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:30:47.555+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 2.533 seconds
+[2026-04-07T03:31:17.762+0000] {processor.py:161} INFO - Started process (PID=909) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:31:17.764+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:31:17.768+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:31:17.766+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:31:19.914+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:31:19.994+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:31:19.994+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:31:20.020+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:31:20.020+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:31:20.057+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 2.316 seconds
+[2026-04-07T03:31:50.476+0000] {processor.py:161} INFO - Started process (PID=915) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:31:50.480+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:31:50.493+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:31:50.485+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:31:53.036+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:31:53.103+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:31:53.102+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:31:53.119+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:31:53.119+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:31:53.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 2.742 seconds
+[2026-04-07T03:32:23.513+0000] {processor.py:161} INFO - Started process (PID=921) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:32:23.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:32:23.522+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:32:23.519+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:32:29.319+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:32:29.482+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:32:29.481+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:32:29.607+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:32:29.607+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:32:29.718+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 6.247 seconds
+[2026-04-07T03:32:59.955+0000] {processor.py:161} INFO - Started process (PID=927) to work on /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:32:59.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipeline_etapas.py for tasks to queue
+[2026-04-07T03:32:59.958+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:32:59.957+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:33:00.671+0000] {processor.py:840} INFO - DAG(s) 'pipeline_bronze_prata_ouro' retrieved from /opt/airflow/dags/pipeline_etapas.py
+[2026-04-07T03:33:00.716+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:33:00.715+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-07T03:33:00.732+0000] {logging_mixin.py:188} INFO - [2026-04-07T03:33:00.732+0000] {dag.py:3954} INFO - Setting next_dagrun for pipeline_bronze_prata_ouro to None, run_after=None
+[2026-04-07T03:33:00.756+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipeline_etapas.py took 0.809 seconds
